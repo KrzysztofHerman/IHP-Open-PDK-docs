@@ -14,6 +14,7 @@ Welcome to IHP 130nm BiCMOS Open Source PDK documentation!
     layout_rules/rules_man
     analog
     digital
+    finishing
     verification
     contrib
     references
