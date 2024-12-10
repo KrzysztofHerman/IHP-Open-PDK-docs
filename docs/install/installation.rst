@@ -52,4 +52,5 @@ Since the PDK provides support of many tools we provide this configuration at to
 
 #. :ref:`xschem_configuration_lbl`.
 #. :ref:`ngspice_configuration_lbl`.
+#. :ref:`xyce_configuration_lbl`.
 #. :ref:`pygmid_configuration_lbl`.
